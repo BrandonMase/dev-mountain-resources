@@ -5,6 +5,9 @@
 #### Lifecycle Methods
 - [Understanding React — Component life-cycle – Bartosz Szczeciński – Medium](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
 - [React Component Lifecycles](http://busypeoples.github.io/post/react-component-lifecycle/)
+##### React Router
+  - https://reacttraining.com/react-router/
+  - [React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/?utm_source=reddit&utm_medium=sc&utm_campaign=react_router4)
 #### Random
   ### Websites
 - https://courses.totalreact.com/
@@ -19,6 +22,7 @@
 - https://www.youtube.com/watch?v=A71aqufiNtQ
 - https://www.youtube.com/watch?v=Mg7Ma5i8NgM&list=PLqGj3iMvMa4LFqyGab_aR7M0zfQm2KTuX
 - https://www.youtube.com/watch?v=ZnRFerIP8aA
+- [Different video series on different React subjects](https://egghead.io/browse/frameworks/react)
 
 
 ## Node.js
@@ -66,13 +70,13 @@
 ##### Random stuff that doesn't fit into any category
 - [Specificity id vs tag vs class etc](http://specificity.keegan.st/)
 ##### Responsiveness
-- https://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch
+- [Build a html5 website from scratch](https://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch)
 ##### Reset / Normalize
 - https://cssreset.com/scripts/eric-meyer-reset-css/
 - https://necolas.github.io/normalize.css/8.0.0/normalize.css
 ##### Positioning 
 ###### Videos
-- [CSS Position: Static, Relative, Absolute, Fixed]https://www.youtube.com/watch?v=TiAgx7HkTM8
+- [CSS Position: Static, Relative, Absolute, Fixed](https://www.youtube.com/watch?v=TiAgx7HkTM8)
 ##### Gradients/Shadows
 - http://css3generator.com/
 - https://www.cssmatic.com/
