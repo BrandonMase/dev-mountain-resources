@@ -37,7 +37,7 @@
 - [Types & Grammer](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-- [Clean Code Javascript - "Best" Practices for cleaner code](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean Code Javascript - This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.](https://github.com/ryanmcdermott/clean-code-javascript)
 ### Websites 
 - https://javascript.info/
 - http://www.javascriptkit.com/javatutors/
