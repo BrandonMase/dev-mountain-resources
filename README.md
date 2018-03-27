@@ -64,7 +64,7 @@
 - https://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085
 #### CSS
 ##### Random stuff that doesn't fit into any category
-- [Specificity(id vs tag vs class,etc](http://specificity.keegan.st/)
+- [Specificity id vs tag vs class etc](http://specificity.keegan.st/)
 ##### Responsiveness
 - https://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch
 ##### Reset / Normalize
