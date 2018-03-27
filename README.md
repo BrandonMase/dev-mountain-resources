@@ -2,10 +2,16 @@
 
 
 ## React
+#### Lifecycle Methods
+- [Understanding React — Component life-cycle – Bartosz Szczeciński – Medium](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
+- [React Component Lifecycles](http://busypeoples.github.io/post/react-component-lifecycle/)
+#### Random
   ### Websites
 - https://www.tutorialspoint.com/reactjs/index.htm
 - https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 - https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/
+- https://blog.andrewray.me/reactjs-for-stupid-people/
+- [Frequently faced problems with Beginners in React](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 
 ### Videos
 - https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
@@ -55,8 +61,23 @@
 - https://www.webdesign.org/
 - https://webdesign.tutsplus.com/
 - https://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085
-#### Flexbox
+#### CSS
+##### Random stuff that doesn't fit into any category
+- [Specificity(id vs tag vs class,etc](http://specificity.keegan.st/)
+##### Responsiveness
+- https://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch
+##### Reset / Normalize
+- https://cssreset.com/scripts/eric-meyer-reset-css/
+- https://necolas.github.io/normalize.css/8.0.0/normalize.css
+##### Positioning 
+###### Videos
+- [CSS Position: Static, Relative, Absolute, Fixed]https://www.youtube.com/watch?v=TiAgx7HkTM8
+##### Gradients/Shadows
+- http://css3generator.com/
+- https://www.cssmatic.com/
+##### Flexbox
 - http://flexbox.help
+- https://medium.freecodecamp.org/i-just-launched-a-free-full-length-flexbox-course-where-you-can-build-projects-interactively-1860e3d3c4af
 ### Videos
 - https://www.youtube.com/watch?v=Wm6CUkswsNw
 - https://www.youtube.com/watch?v=Y5SHm53WFEk
