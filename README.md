@@ -69,4 +69,13 @@
 - https://medium.com/codingthesmartway-com-blog/getting-started-with-axios-166cb0035237
 - https://codingthesmartway.com/getting-started-with-axios/
 - http://codeheaven.io/how-to-use-axios-as-your-http-client/
+
+## CS Theory
+### Websites
+#### Binary Search
+- https://hackernoon.com/data-structures-in-javascript-pt-1-binary-search-trees-2c231cf2c8e1
+#### Linked List
+- https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392
+- [A heavily commented version of a Linked List with remove and add](https://repl.it/@BrandonMase/Linked-List-Example)
+
  
