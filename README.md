@@ -7,6 +7,7 @@
 - [React Component Lifecycles](http://busypeoples.github.io/post/react-component-lifecycle/)
 #### Random
   ### Websites
+- https://courses.totalreact.com/
 - https://www.tutorialspoint.com/reactjs/index.htm
 - https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 - https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/
